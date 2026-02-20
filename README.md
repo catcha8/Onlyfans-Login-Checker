@@ -1,5 +1,7 @@
 # OnlyFans Login Checker
 
+# Register at [https://nslsolver.com](https://nslsolver.com)
+
 ## ⚠️ Proof of Concept
 
 This tool is a **proof of concept** and may fail due to non-reversed parameters or API changes. It is not guaranteed to work reliably in all scenarios.
