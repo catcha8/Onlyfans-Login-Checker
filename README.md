@@ -16,7 +16,7 @@ This tool is a **proof of concept** and may fail due to non-reversed parameters 
 
 To get a **free Turnstile solver API**, contact:
 
-- **Discord Server:** [https://discord.gg/fwrvaMG755](https://discord.gg/fwrvaMG755)
+- **Discord Server:** [https://discord.gg/nsl-solver](https://discord.gg/nsl-solver)
 - **Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
 ## Disclaimer
